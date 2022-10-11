@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(81, 113, 253);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+label{
+    text-align: center;
+    margin-left: 45%;
+}
+
+input{
+    text-align: center;
+    margin-left: 45%;
+}
+
+#n{
+    color: aliceblue;
+}
+
+#a{
+    text-align: left;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(128, 151, 253);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+label{
+    text-align: center;
+    margin-left: 850px;
+}
+
+input{
+    text-align: center;
+    margin-left: 850px;
+}
+
+p{
+    color: aliceblue;
+}
